@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:               Mock-Person-SV
-version:            0.02
+version:            0.03
 abstract:           Generate random sets of Swedish names
 author:
     - Magnus Woldrich <m@japh.se>
